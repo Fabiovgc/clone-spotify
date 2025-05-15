@@ -14,3 +14,51 @@ export default App2
 
   
 // export default App2.jsx;
+
+// {items === 5 ? (
+//                         <> 
+//                             <SingleItem />
+                        
+//                             <SingleItem />
+                            
+//                             <SingleItem />
+            
+//                             <SingleItem />
+            
+//                             <SingleItem /> 
+//                         </>
+
+//                         ) : (
+                            
+                            
+//                         <>
+//                             <SingleItem />
+                        
+//                             <SingleItem />
+                            
+//                             <SingleItem />
+            
+//                             <SingleItem />
+            
+//                             <SingleItem />
+
+//                             <SingleItem />
+                        
+//                             <SingleItem />
+                            
+//                             <SingleItem />
+            
+//                             <SingleItem />
+            
+//                             <SingleItem />
+//                         </>
+//                         )}
+
+
+// ======================================================================
+
+// Array(items)
+//                     .fill()
+//                     .map((currentValue, index) => ( 
+//                         <SingleItem key={`${title}-${index}`} /> 
+//                     ))
